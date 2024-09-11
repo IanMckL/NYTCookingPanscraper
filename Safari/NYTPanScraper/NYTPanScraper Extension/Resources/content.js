@@ -34,6 +34,5 @@ const removeAds = () => {
   const ads = document.querySelectorAll(".adunit_ad-unit__IhpkS");
   ads.forEach((ad) => ad.remove());
 };
-console.log("TEST")
 
 main();
