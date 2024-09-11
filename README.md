@@ -18,13 +18,12 @@ _This Google Chrome extension removes the paywall from New York Times cooking ar
 7. The extension should now be installed and active.
 
 
-
 ## How it Works
 _The extension works by removing elements from the page that are responsible for the paywall and advertisements. Because of the way the class names are composed by appending unique identifiers (e.g. `modal_modal-window-container__59UFY`), the extension may break if the class names are changed. If the New York Times dev team actually cared, they could solve this by adding a watchdog script. Or, you know... not sending ALL of the recipe information before confirming that a user has access to the recipe. I presume they do this for SEO._
 
 ## Future Improvements
 - [ ] Add a toggle to enable/disable autosave
-- [ ] Add safari support
+- [ ] Add safari version of the extension
 
 ## FAQ
 - **Q: Why did you make this?**
