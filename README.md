@@ -24,6 +24,7 @@ _The extension works by removing elements from the page that are responsible for
 
 ## Future Improvements
 - [X] Add safari version of the extension
+- [ ] Create custom icons
 - [ ] Add a toggle to enable/disable autosave of recipes
 
 
