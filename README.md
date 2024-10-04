@@ -1,4 +1,4 @@
-# NYT PieScraper
+# NYT PanScraper
 
 _This Google Chrome extension removes the paywall from New York Times cooking articles removing the paywall modal. Yes, it's that simple. PieScraper also removes advertisements._
 
